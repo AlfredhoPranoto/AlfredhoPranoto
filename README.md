@@ -1,4 +1,12 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Alfredho Pranoto**.<br>
+
+Saya seorang Mahasiswa di Mahasiswa di Universitas Bina Nusantara.<br>
+
+Saya mengambil jurusan Computer Science dan sudah ada di Semester 7.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/alfredhopranoto/)ku ya.
 
 <!--
 **AlfredhoPranoto/AlfredhoPranoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
