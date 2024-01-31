@@ -1,4 +1,4 @@
-# Halo semua! 
+# Hello
 
 Perkenalkan nama saya **Alfredho Pranoto**.<br>
 
@@ -6,7 +6,7 @@ Saya seorang Mahasiswa di Mahasiswa di Universitas Bina Nusantara.<br>
 
 Saya mengambil jurusan Computer Science dan sudah ada di Semester 7.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/alfredhopranoto/)ku ya.
+Jika kamu tertarik, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/alfredhopranoto/).
 
 <p align="left">
 <a href="https://github.com/AlfredhoPranoto">
