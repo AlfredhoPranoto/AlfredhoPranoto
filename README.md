@@ -2,9 +2,7 @@
 
 Perkenalkan nama saya **Alfredho Pranoto**.<br>
 
-Saya seorang Mahasiswa di Mahasiswa di Universitas Bina Nusantara.<br>
-
-Saya mengambil jurusan Computer Science dan sudah ada di Semester 7.<br>
+Saya seorang Fresh Graduate Jurusan Teknik Informatika dari Universitas Bina Nusantara.<br>
 
 Jika kamu tertarik, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/alfredhopranoto/).
 
