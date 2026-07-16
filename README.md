@@ -26,7 +26,7 @@ Jika kamu tertarik, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/al
 
 | Project | Description | Status |
 |---|---|---|
-| **JSL Admin** | Web app untuk admin kelola sekolah renang (jadwal, siswa, coach, dll) | 🚧 In progress |
+| **JSL Admin** | Web app untuk admin kelola sekolah renang (jadwal, siswa, coach, dll) | ✅ Complete |
 | **JSL Mobile** | Mobile app untuk coach — akses jadwal & progress siswa | 🚧 In progress |
 | [vgstore](https://github.com/AlfredhoPranoto/vgstore) | Web app for game sales & discovery | ✅ Complete |
 | [warehouse-management](https://github.com/AlfredhoPranoto/warehouse-management) | Warehouse Management System (TypeScript) | ✅ Complete |
